@@ -1,0 +1,22 @@
+{
+  "name": "note.js",
+  "main": "note.js",
+  "authors": [
+    "Derek Wright <derekmwright@gmail.com>"
+  ],
+  "description": "Javascript library for handling note data from midi or other generic sources.",
+  "keywords": [
+    "audio",
+    "music",
+    "midi"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/derekmwright/note.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
